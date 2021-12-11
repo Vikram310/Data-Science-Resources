@@ -1,6 +1,6 @@
 # Data-Science-Resources
 
-## Youtube Courses
+## ML - DL Youtube Courses
 
 [**Stanford CS229: Machine Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
