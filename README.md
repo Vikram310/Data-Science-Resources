@@ -87,7 +87,7 @@ Some of the concepts include:
 - Natural Language Generation
 - T5 and Large Language Models
 
-[** Carnegie Mellon University: Neural Nets for Natural Language Processing 2021**](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+[**Carnegie Mellon University: Neural Nets for Natural Language Processing 2021**](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
 Some of the concepts include:
 - Language Modeling
