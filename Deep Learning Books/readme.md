@@ -1,1 +1,1 @@
-
+- Paper on Drop-out Regularization: [Papers with Code](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
