@@ -1,3 +1,3 @@
 - Paper on Drop-out Regularization: [Papers with Code](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - Weights and Biases Tutorials: [Weights and Biases](https://wandb.ai/site/tutorials)
-- HUgging Face Tutorials on Transformers: [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
+- Hugging Face Tutorials on Transformers: [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
