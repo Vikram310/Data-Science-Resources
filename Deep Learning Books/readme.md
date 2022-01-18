@@ -6,4 +6,4 @@
 ## Natural Language Processing
 
 - Hugging Face Tutorials on Transformers: [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
-- NLP with Hugging Face: [Article](https://blog.paperspace.com/natural-language-processing-with-huggingface/)[Blog](https://blog.paperspace.com/tag/natural-language-processing/)
+- NLP with Hugging Face: [Article](https://blog.paperspace.com/natural-language-processing-with-huggingface/)   [Blog](https://blog.paperspace.com/tag/natural-language-processing/)
